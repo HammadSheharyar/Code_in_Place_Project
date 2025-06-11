@@ -3,7 +3,7 @@
 
 A fun and classic Snake Game built with Python's `turtle` module. Use your arrow keys to control the snake, eat food, and grow longer — but don't hit the walls or yourself!
 
-![snake-game-demo](https://user-images.githubusercontent.com/welcome_bg.gif) 
+![Welcome Screen](welcome_bg.gif)
 
 ---
 
